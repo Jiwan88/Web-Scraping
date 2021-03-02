@@ -1,2 +1,2 @@
 # Web-Scraping
-Data and code that I had scraping using Web Scrapers.
+Data and code that I had scraped using Web Scrapers.
